@@ -1,6 +1,4 @@
-# Access our site
+# Access our site to more informations!
 
-https://z3-studio.com/
-
-[Node Graph](https://github.com/Z3-Studio/Z3-Unity-Toolkit)
+[Z3-Studio](https://z3-studio.com/)
 
